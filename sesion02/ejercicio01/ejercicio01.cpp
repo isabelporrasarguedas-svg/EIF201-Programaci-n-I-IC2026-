@@ -4,7 +4,19 @@
 
 int main()
 {
-	int contador = 0;
+	std::array<std::array<int, 3>, 3> mat = Matrix();
+	sumRows(mat);
+	sumCols(mat);
+	sumDiag(mat);
+
+
+
+
+
+
+
+
+	/*int contador = 0;
 	std::array <int, 10> arreglo;
 
 	for (int i = 0; i < 10; i++) {
@@ -18,15 +30,15 @@ int main()
 		std::cout << "ingrese un numero" << std::endl;
 		std::cin >> array[i];
 
-	}
+	}*/
 
 
 
-	Max(arreglo);
+	/*Max(arreglo);
 	Min(arreglo);
 	Sum(arreglo);
 	Average(arreglo);
-	arrayInverse(array);
+	arrayInverse(array);*/
 
 }
 
