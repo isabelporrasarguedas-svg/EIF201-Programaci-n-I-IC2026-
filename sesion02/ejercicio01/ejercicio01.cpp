@@ -12,10 +12,21 @@ int main()
 			std::cout << "Ingrese un numero"<<contador<< std:: endl;
 			std::cin >> arreglo[i];
 	}
+
+	std::array<int, 20> array;
+	for (int i = 0; i < 20; i++) {
+		std::cout << "ingrese un numero" << std::endl;
+		std::cin >> array[i];
+
+	}
+
+
+
 	Max(arreglo);
 	Min(arreglo);
 	Sum(arreglo);
 	Average(arreglo);
+	arrayInverse(array);
 
 }
 

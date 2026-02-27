@@ -54,3 +54,26 @@ int Min(const std::array<int, 10>& arreglo) {
 		return 0;
 	}
 	
+	void arrayInverse(const std::array<int, 20>& array) {
+		std::array<int, 20> arrayInverse;
+		int contador = 0;
+		for (int i = 19; i >= 0; i--) {
+			arrayInverse[contador] = array[i];
+			contador++;
+		}
+		for (int x = 0; x < 20; x++) {
+			std::cout << "El arreglo al inverso es:" << arrayInverse[x] << std::endl;
+		}
+		
+	}
+
+
+
+
+
+
+
+
+
+
+

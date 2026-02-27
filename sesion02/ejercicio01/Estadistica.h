@@ -5,5 +5,6 @@ int Max(const std::array<int, 10>& arreglo);
 int Min(const std::array<int, 10>& arreglo);
 int Sum(const std::array<int, 10>& arreglo);
 double Average(const std::array<int, 10>& arreglo);
+void arrayInverse(const std::array<int, 20>& array);
 
 #endif
