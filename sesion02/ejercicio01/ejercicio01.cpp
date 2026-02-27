@@ -4,7 +4,7 @@
 
 int main()
 {
-	std::array<std::array<int, 3>, 3> mat = Matrix();
+	std::array<std::array<int, ROWS>, COLS> mat = Matrix();
 	sumRows(mat);
 	sumCols(mat);
 	sumDiag(mat);

@@ -1,7 +1,7 @@
 #include "Estadistica.h"
 #include <iostream>
 #include <array>
-
+#include <iomanip>
 
 //int Max(const std::array<int, 10>& arreglo) {
 //	int numMax = arreglo[0];
@@ -67,10 +67,10 @@
 //		
 //	}
 
-std::array<std::array<int, 3>, 3> Matrix() {
+std::array<std::array<int, ROWS>, COLS> Matrix() {
 	int contador = 0;
 
-	std::array<std::array<int, 3>, 3>Mat;
+	std::array<std::array<int, ROWS>, COLS>Mat;
 	for (int rows = 0; rows < 3; rows++) {
 		for (int cols = 0; cols < 3; cols++) {
 			std::cout << "ingrese un numero:" <<contador++<< std::endl;
@@ -81,7 +81,7 @@ std::array<std::array<int, 3>, 3> Matrix() {
 	return Mat;
 }
 
-void sumRows(const std::array<std::array<int, 3>, 3> Matrix)
+void sumRows(const std::array<std::array<int, ROWS>, COLS> Matrix)
 {
 	std::array<int, 3>sumRowsMat;
 
@@ -90,14 +90,16 @@ void sumRows(const std::array<std::array<int, 3>, 3> Matrix)
 		for (int y = 0; y < 3; y++) {
 			sumRows = sumRows + Matrix[x][y];
 			sumRowsMat[x] = sumRows;
+			std::cout << std::setw(6) << Matrix[x][y] << "\t";
 		}
+		std::cout << "\n";
 	}
 	std::cout << "La suma de las filas es" << "\n Primera fila " << sumRowsMat[0] << "\n Segunda fila " << sumRowsMat[1] << "\n Tercera fila " << sumRowsMat[2] << "\n";
 
 
 }
 
-void sumCols(const std::array<std::array<int, 3>, 3> Matrix)
+void sumCols(const std::array<std::array<int, ROWS>, COLS> Matrix)
 {
 	std::array<int, 3>sumColsMat;
 	for (int x = 0; x < 3; x++) {
@@ -110,7 +112,7 @@ void sumCols(const std::array<std::array<int, 3>, 3> Matrix)
 	std::cout << "\nLuma de las columnas es" << "\n Primer columna " << sumColsMat[0] << "\n Segunda Columna " << sumColsMat[1] << "\n Tercer columna " << sumColsMat[2] << "\n";
 }
 
-void sumDiag(const std::array<std::array<int, 3>, 3> Matrix) {
+void sumDiag(const std::array<std::array<int, ROWS>, COLS> Matrix) {
 	
 	int sumDiag = 0;
 	for (int x = 0; x < 3; x++) {
