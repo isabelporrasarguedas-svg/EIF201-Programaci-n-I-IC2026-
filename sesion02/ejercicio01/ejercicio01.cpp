@@ -6,18 +6,29 @@
 
 int main()
 {
-	std::string nombre;
+	std::string name;
+	std::string firstname = "";
 
 	std::cout << "ingrese su nombre" << "\n";
-	std::getline(std::cin, nombre);
-	
-	std::cout << "Su nombre tiene" << nombre.length() << "letras de longitud" << std:: endl;
+	std::getline(std::cin, name);
 
-
-	for (int i = 0; i < nombre.length(); i++) {
-		nombre[i] = toupper(nombre[i]);
+	for (int i = 0; i < name.length(); i++) {
+		if (name[i] == ' ') {
+			break;	
+		}
+		firstname = firstname + name[i];
 	}
-	std::cout << "Su nombre en mayusculas:" << nombre << std::endl;
+
+
+
+	std::cout << "Primer nombre:" << firstname << std::endl;
+	std::cout << "Su nombre tiene" << name.length() << "letras de longitud" << std:: endl;
+
+
+	for (int i = 0; i < name.length(); i++) {
+		name[i] = toupper(name[i]);
+	}
+	std::cout << "Su nombre en mayusculas:" << name << std::endl;
 
 	std::cin.get();
 	return 0;
