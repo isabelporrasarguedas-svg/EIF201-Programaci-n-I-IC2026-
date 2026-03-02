@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -32,23 +32,9 @@
               "RelativeDocumentMoniker": "Estadistica.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion02\\ejercicio01\\Estadistica.cpp",
               "RelativeToolTip": "Estadistica.cpp",
-              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAHEAAACA/WxVK9oZwH4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-25T21:46:43.81Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Estadistica.h",
-              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion02\\ejercicio01\\Estadistica.h",
-              "RelativeDocumentMoniker": "Estadistica.h",
-              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion02\\ejercicio01\\Estadistica.h",
-              "RelativeToolTip": "Estadistica.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-02-27T18:47:39.813Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
@@ -60,9 +46,43 @@
               "RelativeDocumentMoniker": "ejercicio01.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion02\\ejercicio01\\ejercicio01.cpp",
               "RelativeToolTip": "ejercicio01.cpp",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-02-25T21:21:42.393Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "d36229be-27b7-4930-bee3-a8cad35f5808",
+        "Display": 0,
+        "X": 65,
+        "Y": 149,
+        "Width": 490,
+        "Height": 671,
+        "WindowState": 2
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estadistica.h",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion02\\ejercicio01\\Estadistica.h",
+              "RelativeDocumentMoniker": "Estadistica.h",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion02\\ejercicio01\\Estadistica.h",
+              "RelativeToolTip": "Estadistica.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-02-27T18:47:39.813Z",
               "EditorCaption": ""
             }
           ]

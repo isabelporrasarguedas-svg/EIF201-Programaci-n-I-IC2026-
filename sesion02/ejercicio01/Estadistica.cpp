@@ -2,6 +2,7 @@
 #include <iostream>
 #include <array>
 #include <iomanip>
+#include <cctype>
 
 //int Max(const std::array<int, 10>& arreglo) {
 //	int numMax = arreglo[0];
@@ -67,7 +68,7 @@
 //		
 //	}
 
-std::array<std::array<int, ROWS>, COLS> Matrix() {
+/*std:::array<std::array<int, ROWS>, COLS> Matrix() {
 	int contador = 0;
 
 	std::array<std::array<int, ROWS>, COLS>Mat;
@@ -120,10 +121,7 @@ void sumDiag(const std::array<std::array<int, ROWS>, COLS> Matrix) {
 	}
 	std::cout << "\nLa suma de la Diagonal principal es "<< sumDiag;
 }
-
-
-
-
+*/
 
 
 

@@ -1,17 +1,41 @@
 #include "Estadistica.h" 
 #include <iostream>
+#include <string>
 #include <array>
+#include <cctype>
 
 int main()
 {
-	std::array<std::array<int, ROWS>, COLS> mat = Matrix();
-	sumRows(mat);
+	std::string nombre;
+
+	std::cout << "ingrese su nombre" << "\n";
+	std::getline(std::cin, nombre);
+	
+	std::cout << "Su nombre tiene" << nombre.length() << "letras de longitud" << std:: endl;
+
+
+	for (int i = 0; i < nombre.length(); i++) {
+		nombre[i] = toupper(nombre[i]);
+	}
+	std::cout << "Su nombre en mayusculas:" << nombre << std::endl;
+
+	std::cin.get();
+	return 0;
+
+
+
+
+
+	/*sumRows(mat);
 	sumCols(mat);
-	sumDiag(mat);
+	sumDiag(mat);*/
+	/*std::string nombreCompleto;
+	std::array<std::array<int, ROWS>, COLS> mat = Matrix();
 
+	std::cout << "ingrese su nombre" << "\n";
+	std::getline(std::cin, nombreCompleto);
 
-
-
+	std::*/
 
 
 
