@@ -9,6 +9,7 @@ int main()
 	std::string name;
 	std::string firstname = "";
 	std::string lastname1 = "";
+	int vowels = 0;
 	 bool firstspace = false;
 
 	std::cout << "ingrese su nombre" << "\n";
@@ -38,15 +39,25 @@ int main()
 		}
 
 	}
-	std::cout << "Primer nombre:" << firstname << std::endl;
-	std::cout << "Su apellido es:" << lastname1 << std::endl;
-	std::cout << "Su nombre tiene " << name.length() << " letras de longitud" << std:: endl;
-
 
 	for (int i = 0; i < name.length(); i++) {
 		name[i] = toupper(name[i]);
 	}
+
+	for (int i = 0; i < name.length(); i++) {
+		if (name[i] == 'A' || name[i] == 'a' || name[i] == 'E' || name[i] == 'e' || name[i] == 'I' || name[i] == 'i' || name[i] == 'O' || name[i] == 'o'
+			|| name[i] == 'U' || name[i] == 'u') {
+			vowels++;
+		}
+			
+	}
+
+	std::cout << "Primer nombre:" << firstname << std::endl;
+	std::cout << "Su apellido es:" << lastname1 << std::endl;
+	std::cout << "Su nombre tiene " << vowels << " vocales" << std::endl;
+	std::cout << "Su nombre tiene " << name.length() << " letras de longitud" << std::endl;
 	std::cout << "Su nombre en mayusculas:" << name << std::endl;
+
 
 	std::cin.get();
 	return 0;
