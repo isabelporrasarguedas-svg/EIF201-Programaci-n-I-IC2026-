@@ -8,6 +8,8 @@ int main()
 {
 	std::string name;
 	std::string firstname = "";
+	std::string lastname1 = "";
+	 bool firstspace = false;
 
 	std::cout << "ingrese su nombre" << "\n";
 	std::getline(std::cin, name);
@@ -19,10 +21,26 @@ int main()
 		firstname = firstname + name[i];
 	}
 
+	for (int i = 0; i < name.length(); i++) {
+		 if (name[i] == ' ') {
 
+        if (firstspace== false) {
+            firstspace = true;   
+            continue;           
+        }
+        else {
+            break;   
+        }
+    }
 
+		if (firstspace) {
+			lastname1 += name[i];
+		}
+
+	}
 	std::cout << "Primer nombre:" << firstname << std::endl;
-	std::cout << "Su nombre tiene" << name.length() << "letras de longitud" << std:: endl;
+	std::cout << "Su apellido es:" << lastname1 << std::endl;
+	std::cout << "Su nombre tiene " << name.length() << " letras de longitud" << std:: endl;
 
 
 	for (int i = 0; i < name.length(); i++) {

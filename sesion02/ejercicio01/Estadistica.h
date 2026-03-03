@@ -5,7 +5,6 @@
 
 
 
-void convertiraMayúscula();
 
 
 
