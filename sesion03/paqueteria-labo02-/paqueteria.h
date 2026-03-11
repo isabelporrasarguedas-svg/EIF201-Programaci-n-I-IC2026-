@@ -4,7 +4,7 @@
 
 double* crearRegristro(int& cant);
 
-void IngresarPeso(double* pesos, int cant)
+void IngresarPeso(double* pesos, int cant);
 
 double calcularPesoTotal(const double* pesos, int cant);
 

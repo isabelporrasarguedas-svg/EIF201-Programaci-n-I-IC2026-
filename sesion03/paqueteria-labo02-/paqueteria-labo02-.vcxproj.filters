@@ -18,6 +18,9 @@
     <ClCompile Include="paqueteria-labo02-.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
+    <ClCompile Include="paqueteria.cpp">
+      <Filter>Archivos de encabezado</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="paqueteria.h">

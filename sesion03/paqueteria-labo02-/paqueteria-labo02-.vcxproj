@@ -128,6 +128,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="paqueteria-labo02-.cpp" />
+    <ClCompile Include="paqueteria.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="paqueteria.h" />
