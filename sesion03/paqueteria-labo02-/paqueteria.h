@@ -2,7 +2,7 @@
 #define PAQUETERIA_H
 
 
-double* crearRegristro(int& cant);
+double* crearRegistro(int& cant);
 
 void IngresarPeso(double* pesos, int cant);
 
