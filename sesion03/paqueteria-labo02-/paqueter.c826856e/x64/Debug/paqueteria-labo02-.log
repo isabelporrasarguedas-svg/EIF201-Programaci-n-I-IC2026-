@@ -1,0 +1,10 @@
+﻿  paqueteria-labo02-.cpp
+C:\Users\Isabel\Practica\EIF201-Programaci-n-I-IC2026-\sesion03\paqueteria-labo02-\paqueteria-labo02-.cpp(13,17): error C2660: 'calcularPesoTotal': la función no acepta 2 argumentos
+      C:\Users\Isabel\Practica\EIF201-Programaci-n-I-IC2026-\sesion03\paqueteria-labo02-\paqueteria.h(9,8):
+      vea la declaración de 'calcularPesoTotal'
+      C:\Users\Isabel\Practica\EIF201-Programaci-n-I-IC2026-\sesion03\paqueteria-labo02-\paqueteria-labo02-.cpp(13,17):
+      al hacer coincidir la lista de argumentos '(double *, int)'
+  
+  paqueteria.cpp
+C:\Users\Isabel\Practica\EIF201-Programaci-n-I-IC2026-\sesion03\paqueteria-labo02-\paqueteria.cpp(44,9): error C2082: nueva definición del parámetro formal 'promedio'
+  Generando código...
