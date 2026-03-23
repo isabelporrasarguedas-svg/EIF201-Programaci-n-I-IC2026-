@@ -5,10 +5,29 @@
 
 namespace UNA {
 
-	class Flota
-	{
-	};
+        class Flota {
+        private:
+            Vehiculo** vehiculos;
+            int cantidad;
+            int capacidad;
 
-}
+            void redimensionar();
 
-#endif 
+        public:
+            Flota();
+            ~Flota();
+
+            void agregar(Vehiculo* v);
+            Vehiculo* buscarPorPlaca(std::string placa) const;
+            void mostrarTodos() const;
+            void mostrarPorMarca(std::string marca) const;
+            bool eliminar(std::string placa);
+            int contarActivos() const;
+        };
+
+    }
+
+#endif
+
+
+ 
