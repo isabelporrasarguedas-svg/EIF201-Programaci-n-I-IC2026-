@@ -16,8 +16,18 @@ namespace UNA {
 
     void Vehiculo::registrarKilometros(double km)
     {
+        if (!activo) {
+            std::cout << "Este vehiculo se encuentra fuera de servicio\n";
+            return;
+        }
 
-    }
+        if (km < 0) {
+            std::cout << "El kilometraje no puede ser menor a 0\n";
+        }
+        else {
+            kilometraje += km;
+        }
+       }
     void Vehiculo::desactivar()
     {
     }
