@@ -14,7 +14,7 @@ namespace UNA {
             void redimensionar();
 
         public:
-            Flota();
+            Flota(int capacidadInicial);
             ~Flota();
 
             void agregar(Vehiculo* v);

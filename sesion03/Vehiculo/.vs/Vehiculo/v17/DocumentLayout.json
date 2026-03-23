@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Flota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Flota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Flota.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -30,30 +30,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Flota.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.cpp",
               "RelativeDocumentMoniker": "Flota.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.cpp",
               "RelativeToolTip": "Flota.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-23T21:12:12.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Flota.h",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.h",
               "RelativeDocumentMoniker": "Flota.h",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.h",
               "RelativeToolTip": "Flota.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-03-23T18:34:23.127Z",
               "EditorCaption": ""
@@ -68,8 +68,7 @@
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-23T18:32:55.41Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T18:32:55.41Z"
             },
             {
               "$type": "Document",
@@ -93,8 +92,7 @@
               "RelativeToolTip": "Vehiculo.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-23T19:50:23.897Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-23T19:50:23.897Z"
             }
           ]
         }
