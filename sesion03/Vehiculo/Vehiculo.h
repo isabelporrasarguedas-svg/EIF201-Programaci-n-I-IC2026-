@@ -5,9 +5,29 @@
 
 namespace UNA {
 
-	class Vehiculo
-	{
-	};
+    class Vehiculo
+    {
+    private:
+        std::string placa;
+        std::string marca;
+        int anio;
+        double kilometraje;
+        bool activo;
+
+    public:
+        Vehiculo(std::string placa, std::string marca, int anio, double km);
+
+        std::string getPlaca() const;
+        std::string getMarca() const;
+        int getAnio() const;
+        double getKilometraje() const;
+        bool isActivo() const;
+
+        void registrarKilometros(double km);
+        void desactivar();
+        void reactivar();
+        void mostrar() const;
+    };
 
 }
 #endif
