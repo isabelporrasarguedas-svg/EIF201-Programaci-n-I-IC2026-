@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Flota.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Vehiculo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{0453A2BB-275E-4B9E-B661-CBD6E11E9061}|Vehiculo.vcxproj|solutionrelative:Vehiculo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,48 +30,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Flota.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.cpp",
               "RelativeDocumentMoniker": "Flota.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.cpp",
               "RelativeToolTip": "Flota.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAEwAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAFEAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-23T21:12:12.267Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Flota.h",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.h",
               "RelativeDocumentMoniker": "Flota.h",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Flota.h",
               "RelativeToolTip": "Flota.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-23T18:34:23.127Z"
+              "WhenOpened": "2026-03-23T18:34:23.127Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-23T18:32:55.41Z"
+              "WhenOpened": "2026-03-23T18:32:55.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Vehiculo.h",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.h",
               "RelativeDocumentMoniker": "Vehiculo.h",
@@ -79,19 +81,21 @@
               "RelativeToolTip": "Vehiculo.h",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-23T18:33:50.266Z"
+              "WhenOpened": "2026-03-23T18:33:50.266Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Vehiculo.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.cpp",
               "RelativeDocumentMoniker": "Vehiculo.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Vehiculo\\Vehiculo.cpp",
               "RelativeToolTip": "Vehiculo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAACwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2026-03-23T19:50:23.897Z"
+              "WhenOpened": "2026-03-23T19:50:23.897Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -61,7 +61,11 @@ namespace UNA {
 
 	Vehiculo* UNA::Flota::buscarPorPlaca(std::string placa) const
 	{
-		
+		for (int i = 0; i < cantidad; i++) {
+			if (vehiculos[i]->getPlaca() == placa) {
+				return vehiculos[i];
+			}
+		}
 	}
 
 	void UNA::Flota::mostrarTodos() const
@@ -83,16 +87,69 @@ namespace UNA {
 
 	void UNA::Flota::mostrarPorMarca(std::string marca) const
 	{
+		int contador = 0;
+
+		for (int i = 0; i < cantidad; i++) {
+			if (vehiculos[i]->getMarca() == marca) {
+				vehiculos[i]->mostrar();
+				contador++;
+			}
+		}
+
+		if (contador == 0) {
+			std::cout << "No hay vehiculos de la marca ingresada: " << marca << std::endl;
+		}
+		else {
+			std::cout << "Total de vehiculos de la marca ingresada " << marca
+				<< ": " << contador << std::endl;
+		}
 	}
 
 	bool UNA::Flota::eliminar(std::string placa)
 	{
-		return false;
+		int posicion = -1;
+
+		for (int i = 0; i < cantidad; i++) {
+			if (vehiculos[i]->getPlaca() == placa) {
+				posicion = i;
+				break;
+			}
+			if (posicion == -1) {
+				std::cout << "Vehiculo no encontrado\n";
+				return false;
+			}
+		}
+		if (vehiculos[posicion]->isActivo()) {
+			std::cout << "Debe desactivar el vehiculo primero\n";
+			return false;
+		}
+		std::string placaVehiculo = vehiculos[posicion]->getPlaca();
+
+		delete vehiculos[posicion];
+
+		for (int i = posicion; i < cantidad - 1; i++) {
+			vehiculos[i] = vehiculos[i + 1];
+		}
+
+		vehiculos[cantidad - 1] = nullptr;
+		cantidad--;
+
+		std::cout << "Vehiculo " << placaVehiculo << " eliminado\n";
+		return true;
+
 	}
 
 	int UNA::Flota::contarActivos() const
 	{
-		return 0;
+		int cont = 0;
+
+		for (int i = 0; i < cantidad; i++) {
+			if (vehiculos[i]->isActivo()) {
+				cont++;
+			}
+		}
+
+		return cont;
 	}
 
 }

@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\inventario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|solutionrelative:inventario.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\inventario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|solutionrelative:inventario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\productos.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -21,6 +13,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\productos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|solutionrelative:productos.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\inventario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{010346F5-11B1-403C-B0BD-3EDDAD0FEB37}|ConsoleApplication1.vcxproj|solutionrelative:inventario.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "inventario.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\inventario.cpp",
               "RelativeDocumentMoniker": "inventario.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\inventario.cpp",
               "RelativeToolTip": "inventario.cpp",
-              "ViewState": "AgIAADMAAADA5D9OxLEnwAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-18T20:12:49.241Z",
               "IsPinned": true,
@@ -48,7 +48,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "inventario.h",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\inventario.h",
               "RelativeDocumentMoniker": "inventario.h",
@@ -56,25 +56,24 @@
               "RelativeToolTip": "inventario.h",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2026-03-18T19:57:12.109Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-18T19:57:12.109Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "productos.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\productos.cpp",
               "RelativeDocumentMoniker": "productos.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\productos.cpp",
               "RelativeToolTip": "productos.cpp",
-              "ViewState": "AgIAAAkAAAAALGcG30sMwBgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-18T19:12:06.33Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "productos.h",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\productos.h",
               "RelativeDocumentMoniker": "productos.h",
@@ -87,13 +86,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "ConsoleApplication1.cpp",
               "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
               "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeToolTip": "ConsoleApplication1.cpp",
-              "ViewState": "AgIAAEgAAAAAG4ZUkssjwFYAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2026-03-18T19:09:07.817Z",
               "EditorCaption": ""

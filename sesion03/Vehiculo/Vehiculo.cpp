@@ -58,4 +58,5 @@ namespace UNA {
             << "Kilometraje:  " << kilometraje << "\n"
             << "Estado:       " << (activo ? "ACTIVO" : "FUERA DE SERVICIO") << "\n"
             << "================================" << std::endl;
+    }
 }
