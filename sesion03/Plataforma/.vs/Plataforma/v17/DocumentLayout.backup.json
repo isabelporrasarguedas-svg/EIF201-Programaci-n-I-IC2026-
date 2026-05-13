@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Cancion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|solutionrelative:Cancion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Plataforma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|solutionrelative:Plataforma.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Contenido.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|solutionrelative:Contenido.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\SonarCr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|solutionrelative:SonarCr.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Plataforma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|solutionrelative:Plataforma.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\AudioLibro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1C96F8B3-0E15-4F60-A5DF-CC76FB3D1217}|Plataforma.vcxproj|solutionrelative:AudioLibro.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Plataforma.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Plataforma.cpp",
+              "RelativeDocumentMoniker": "Plataforma.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Plataforma.cpp",
+              "RelativeToolTip": "Plataforma.cpp",
+              "ViewState": "AgIAAFcAAACAgKZiINcrwDwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T03:10:08.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SonarCr.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\SonarCr.cpp",
+              "RelativeDocumentMoniker": "SonarCr.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\SonarCr.cpp",
+              "RelativeToolTip": "SonarCr.cpp",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-18T23:43:18.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Contenido.h",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Contenido.h",
+              "RelativeDocumentMoniker": "Contenido.h",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Contenido.h",
+              "RelativeToolTip": "Contenido.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-18T23:45:23.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cancion.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Cancion.cpp",
+              "RelativeDocumentMoniker": "Cancion.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Cancion.cpp",
+              "RelativeToolTip": "Cancion.cpp",
+              "ViewState": "AgIAAC8AAAAA+v9/AFPivwoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T02:13:07.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Plataforma.h",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Plataforma.h",
+              "RelativeDocumentMoniker": "Plataforma.h",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\Plataforma.h",
+              "RelativeToolTip": "Plataforma.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-19T03:19:56.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AudioLibro.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\AudioLibro.cpp",
+              "RelativeDocumentMoniker": "AudioLibro.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\Plataforma\\AudioLibro.cpp",
+              "RelativeToolTip": "AudioLibro.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-19T02:48:58.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
