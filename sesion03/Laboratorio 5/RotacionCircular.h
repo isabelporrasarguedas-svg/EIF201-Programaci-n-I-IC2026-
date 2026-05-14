@@ -31,7 +31,10 @@ namespace EIF201 {
           void simularTurnos(int n);
 
           void imprimirRotacion() const;
-
+         
+          void imprimirEstadisticas()const;
+          std::string locutorMasActivo()const;
+         
           int getCantidad() const;
           bool estaVacia() const;
     };
