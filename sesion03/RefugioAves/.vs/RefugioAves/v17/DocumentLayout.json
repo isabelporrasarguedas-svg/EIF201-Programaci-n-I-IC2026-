@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\Bitacora.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|solutionrelative:Bitacora.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\Bitacora.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|solutionrelative:Bitacora.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\AnalisisAves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|solutionrelative:AnalisisAves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\AnalisisAves.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|solutionrelative:AnalisisAves.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\RefugioAves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|solutionrelative:RefugioAves.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\NodoAve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{ABCBE6E1-33DE-4276-9338-C59F49C7D267}|RefugioAves.vcxproj|solutionrelative:NodoAve.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bitacora.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\Bitacora.cpp",
+              "RelativeDocumentMoniker": "Bitacora.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\Bitacora.cpp",
+              "RelativeToolTip": "Bitacora.cpp",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAswKkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T20:15:30.283Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AnalisisAves.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\AnalisisAves.cpp",
+              "RelativeDocumentMoniker": "AnalisisAves.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\AnalisisAves.cpp",
+              "RelativeToolTip": "AnalisisAves.cpp",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAswE0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T21:43:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AnalisisAves.h",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\AnalisisAves.h",
+              "RelativeDocumentMoniker": "AnalisisAves.h",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\AnalisisAves.h",
+              "RelativeToolTip": "AnalisisAves.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-20T19:57:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RefugioAves.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\RefugioAves.cpp",
+              "RelativeDocumentMoniker": "RefugioAves.cpp",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\RefugioAves.cpp",
+              "RelativeToolTip": "RefugioAves.cpp",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAswFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-05-20T19:40:24.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NodoAve.h",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\NodoAve.h",
+              "RelativeDocumentMoniker": "NodoAve.h",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\NodoAve.h",
+              "RelativeToolTip": "NodoAve.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-20T19:42:00.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Bitacora.h",
+              "DocumentMoniker": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\Bitacora.h",
+              "RelativeDocumentMoniker": "Bitacora.h",
+              "ToolTip": "C:\\Users\\Isabel\\Practica\\EIF201-Programaci-n-I-IC2026-\\sesion03\\RefugioAves\\Bitacora.h",
+              "RelativeToolTip": "Bitacora.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-05-20T19:49:35.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
